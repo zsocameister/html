@@ -1,0 +1,27 @@
+h1, h3 {
+    color: #66BFBF;
+}
+body{
+    background-color: #EAF6F6;
+}
+table, td, th {
+  background-color: aqua;
+}
+tfoot {
+    text-align: left;
+}
+.jobTable{
+    border: 1px solid black;
+}
+.zsocatable {
+    border: 0px;
+    background-color: #EAF6F6;
+}
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    color: grey;
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
