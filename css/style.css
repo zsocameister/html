@@ -25,3 +25,7 @@ hr {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.hover:hover{
+    background-color: lightgray;
+}
